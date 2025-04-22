@@ -53,4 +53,4 @@
 
 ### ☕ Fun Fact
 
-I ride 40km daily on my motorcycle for work while chasing my dream to master IT infrastructure — rain or shine XOXOXOXOXOXO
+I ride 40km daily on my motorcycle for work while pursuing my Bachelor Degree — rain or shine XOXOXOXOXOXO
