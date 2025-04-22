@@ -46,7 +46,7 @@
 
 - Docker & Container Orchestration
 - Cloud Management & Configuration
-- Network Engineering
+- CI/CD Pipeline
 - Linux hardening and advanced Bash automation
 
 ---
