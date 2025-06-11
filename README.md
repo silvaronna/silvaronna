@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Azka Abdillah 👋</h1>
+<h1 align="center">Hi there, I'm Azka 👋</h1>
 <p align="center">
   <i>System Engineer | Infrastructure & Security Enthusiast</i>
 </p>
@@ -18,24 +18,20 @@
 ### 🛠️ Tech Stack
 
 **Infrastructure & OS:**
-- VMware ESXi, Linux Server, Windows Server.
+- VMware ESXi, Linux Server, Windows Server, AWS.
 - HPE & Dell Server Management, Fortigate, Mikrotik.
 
-**DevOps & Tools:**
-- VirtualBox, Docker, Docker Compose, Vagrant, Cloudflared
-- Bash scripting, Automation
-
-**Web & API Stack:**
-- Frontend: Vite.js, React.js, TailwindCSS
-- Backend: Node.js
-- Database: PostgreSQL, Mysql, Microsoft SQL Server
+**Tools:**
+- Docker, Vagrant, Cloudflared, NginX.
+- Bash scripting, Ansible.
 
 ---
 
 ### 📌 Projects & Work Highlights
 
 - Stack Deployment with Docker Compose based containerization
-- VCenter Vmware Esxi Configuration & Management
+- VCenter Vmware Esxi Orchestration Configuration & Management
+- Manage and Configure Fortigate Firewall Device
 - Linux Server Administration
 - Bash Scripting Automation
 
@@ -43,10 +39,8 @@
 
 ### 📚 I'm Currently Learning
 
-- Docker & Container Orchestration
-- Cloud Management & Configuration
-- CI/CD Pipelining
-- Linux security hardening and advanced Bash automation
+- Automation
+- Security Hardening
 - Network Security
 
 ---
