@@ -22,7 +22,7 @@
 - HPE & Dell Server Management, Fortigate, Mikrotik.
 
 **Tools:**
-- Docker, Vagrant, Cloudflared, NginX.
+- Docker, Vagrant, Cloudflared, NginX, Grafana.
 - Bash scripting, Ansible.
 
 ---
