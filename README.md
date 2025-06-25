@@ -11,7 +11,7 @@
 - 👨‍💻 Passionate about **Infrastructure**, and **Security Engineering**
 - 💻 Daily driver: Ubuntu (KDE Plasma)
 - 🧠 I enjoy building efficient infrastructure systems, from bare metal setup to cloud-based deployments
-- 🎓 Started working in IT at 18, now juggling **work & college**
+- 🎓 Started working in IT at 17, now juggling **work & college**
 
 ---
 
